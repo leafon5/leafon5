@@ -1,4 +1,3 @@
-### i am the laziest person you could ever meet.
 
 *uhhhh i dont know really what to put here sooooo:*
 
