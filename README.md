@@ -6,7 +6,7 @@ hiiiii
 
 
 I have a big interest in coding and other stuff, 
-- i am currently working on [neurodash](https://github.com/leafon5/neurodash) (tho i kinda got lazy on it ngl) and [my own game engine!](https://github.com/leafon5/game-engine-attempt) (so, the worst game engine ever.)
+- i am currently working on [a reinforcement learning model for geometry dash](https://github.com/leafon5/neurodash) (tho i kinda got lazy on it ngl) and [my own game engine!](https://github.com/leafon5/game-engine-attempt) (so, the worst game engine ever.)
 - learning graphics programming, cryptology, machine learning and maths
 - i also love geometry dash, so if you like that game thats awesome and ur cool 👍
 
