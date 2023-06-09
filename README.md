@@ -9,7 +9,7 @@ I have a big interest in coding and other stuff,
 - learning graphics programming, cryptology, machine learning and maths
 - i also love geometry dash, so if you like that game thats awesome and ur cool 👍
 
-my discord is LeafON#2887 if you ever need me for some reason, i have provided the rest of my socials in my profile
+my discord is LeafON#2887 if you ever need to contact me for some reason, i have provided the rest of my socials in my profile
 <!--
 **leafon5/leafon5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
